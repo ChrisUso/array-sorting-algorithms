@@ -4,6 +4,10 @@ static void sort(void)
 {
 
 	//TODO: add merge sort algorithm here
+adsdadda
+dsadsddaad
+dasdsdasad
+
 }
 
 int main()
